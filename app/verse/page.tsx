@@ -1,4 +1,4 @@
-export default function Contact() {
+export default function Verse() {
   return (
     <div className="mx-auto">
       <div className="mx-auto max-w-2xl lg:col-span-6 lg:flex lg:items-center justify-center text-center">
